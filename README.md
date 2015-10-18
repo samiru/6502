@@ -1,4 +1,4 @@
 6502
 ====
 
-learning commodore 64
+Learning Commodore 64

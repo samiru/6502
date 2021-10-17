@@ -1,3 +1,4 @@
 bin
 buildlog.txt
 .DS_Store
+.source.txt

@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"configurations": [
+		{
+			"type": "kickassembler",
+			"request": "launch",
+			"name": "Debug kickass kick01.asm file",
+			"program": "${workspaceFolder}/kick01.asm",
+			"binDirectory": "${workspaceFolder}/bin",
+			"preLaunchTask": "Build program.asm"
+		}
+	]
+}
